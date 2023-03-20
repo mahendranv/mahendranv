@@ -2,7 +2,7 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mahendranv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
 </div><br/>
 <p align="center">
-<img height="200px" src=https://github-readme-streak-stats.herokuapp.com/?user=mahendranv&theme=tokyonight&hide_border=false"/>
+<!-- <img height="200px" src=https://github-readme-streak-stats.herokuapp.com/?user=mahendranv&theme=tokyonight&hide_border=false"/> -->
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendranv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
